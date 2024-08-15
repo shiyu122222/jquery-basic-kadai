@@ -1,1 +1,1 @@
-$('#target').css('color','red');
+$('#target').addClass('heading');
